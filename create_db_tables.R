@@ -1,4 +1,5 @@
 ## Dolphin Photo Database Tester Tables
+#Not yet used
 
 photo <- data.frame(photo_id=integer(0), 
                     photo_date=character(0), 
